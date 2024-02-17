@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "libraries")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad_ArduinoNano/libraries")(options "")(descr ""))
+  (lib (name "multi-avr")(type "KiCad")(uri "${KIPRJMOD}/multi-avr.pretty")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/lib/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
